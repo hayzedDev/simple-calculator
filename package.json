@@ -1,0 +1,15 @@
+{
+  "name": "calculator_hayzed",
+  "version": "1.0.0",
+  "description": "A simple calculator for everyone",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Azeez Abdulsalam",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}
